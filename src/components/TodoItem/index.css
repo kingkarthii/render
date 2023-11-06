@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.backgroundCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding: 10px;
+  color: black;
+}
+.btn {
+  height: 40px;
+  width: 80px;
+  color: orange;
+  padding: 5px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: 1px solid orange;
+}
